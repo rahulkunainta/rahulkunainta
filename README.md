@@ -21,6 +21,11 @@ Skilled in **Java**, **Firebase**, and **UI design**, I build modern user-friend
 
 ---
 
+<!-- 💻 Coding animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding animation"/>
+</p>
+
 ### 🧠 Skills & Tools
 - **Languages:** Java, XML, Python (basic)  
 - **App Development:** Android Studio, Firebase, Cloudinary  
