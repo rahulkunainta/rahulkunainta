@@ -1,6 +1,6 @@
 <h1 align="center">
   <span>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3500&pause=500&color=00FFFF,00FF00,AD00FF&center=true&vCenter=true&width=700&lines=👨‍💻+Rahul+Kunainta;Android+App+Developer;Founder+of+RK+Creations;Creating+Mobile+Experiences+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3500&pause=500&color=00FFFF,00FF00,AD00FF&center=true&vCenter=true&width=700&lines=👨‍💻+Rahul+Kunainta;Android+App+Developer;Creating+Mobile+Experiences+🚀" alt="Typing SVG" />
   </span>
 </h1>     
 
@@ -27,12 +27,7 @@ I'm **Rahul Kunainta**, a futuristic **Android Developer** passionate about craf
 
 ---
 
-### 🚀 Featured Projects  
-🔹 **RK Messenger** – Real-time chat app using Firebase Auth & DB  
-🔹 **Cloud Image Uploader** – Cloudinary + Firebase integration  
-🔹 **Secure Login System** – Clean, modern authentication UI  
 
----
 
   
 <p align="center">
