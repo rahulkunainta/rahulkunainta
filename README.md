@@ -1,6 +1,6 @@
 <h1 align="center">
   <span>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3500&pause=500&color=00FFFF,00FF00,AD00FF&center=true&vCenter=true&width=700&lines=👨‍💻+Rahul+Kunainta;Android+App+Developer;Founder+of+RK+Creations;Creating+Futuristic+Mobile+Experiences+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3500&pause=500&color=00FFFF,00FF00,AD00FF&center=true&vCenter=true&width=700&lines=👨‍💻+Rahul+Kunainta;Android+App+Developer;Founder+of+RK+Creations;Creating+Mobile+Experiences+🚀" alt="Typing SVG" />
   </span>
 </h1>     
 
@@ -13,10 +13,8 @@ I'm **Rahul Kunainta**, a futuristic **Android Developer** passionate about craf
 
 ---
 
-### 💻 Animated Dev Mode  
 <p align="center">
-<img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/images/Happy-Coder.gif" width="400" alt="happy coder"/>
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="cartoon coder animation"/>
 </p>
 
 ---
@@ -36,22 +34,38 @@ I'm **Rahul Kunainta**, a futuristic **Android Developer** passionate about craf
 
 ---
 
-### 📊 GitHub Stats
+### 💫 Moving Logos  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulkunainta&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkunainta&layout=compact&theme=tokyonight" height="180em" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/moving-logos/android.gif" width="60">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/moving-logos/java.gif" width="60">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/moving-logos/firebase.gif" width="60">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/moving-logos/github.gif" width="60">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/moving-logos/python.gif" width="60">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/moving-logos/vscode.gif" width="60">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/moving-logos/androidstudio.gif" width="60">
+</p>
+
+<p align="center">
+  <b>🔥 Tools that bring my code to life!</b>
 </p>
 
 ---
 
-### 🏆 Achievements
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulkunainta&show_icons=true&theme=tokyonight" height="180em" />
+</p>
+
+---
+
+### 🏆 Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rahulkunainta&theme=matrix&margin-w=10&margin-h=10&no-frame=true"/>
 </p>
 
 ---
 
-### 🧠 Contribution Graph
+### 🧠 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkunainta&theme=matrix&hide_border=true&area=true" />
 </p>
@@ -73,7 +87,7 @@ I'm **Rahul Kunainta**, a futuristic **Android Developer** passionate about craf
 
 ---
 
-### 🕶️ Hacker Mode
+### 🕶️ Developer Mode  
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600" alt="matrix code animation"/>
 </p>
