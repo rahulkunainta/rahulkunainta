@@ -34,15 +34,14 @@ I'm **Rahul Kunainta**, a futuristic **Android Developer** passionate about craf
 
 ---
 
-### 💫 Moving Logos  
+  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/moving-logos/android.gif" width="60">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/moving-logos/java.gif" width="60">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/moving-logos/firebase.gif" width="60">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/moving-logos/github.gif" width="60">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/moving-logos/python.gif" width="60">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/moving-logos/vscode.gif" width="60">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/moving-logos/androidstudio.gif" width="60">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/android_studio.png" width="60">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java.png" width="60">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/firebase.png" width="60">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="60">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" width="60">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/visual_studio_code.png" width="60">
 </p>
 
 <p align="center">
