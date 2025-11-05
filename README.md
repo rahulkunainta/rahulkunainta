@@ -39,9 +39,13 @@ I'm **Rahul Kunainta**, a futuristic **Android Developer** passionate about craf
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/visual_studio_code.png" width="60">
 </p>
 
+
+
 <p align="center">
   <b>🔥 Tools that bring my code to life!</b>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitprajapati23&show_icons=true&locale=en&layout=compact" alt="rohitprajapati23" /></p>
 
 ---
 
