@@ -66,7 +66,7 @@ I'm **Rahul Kunainta**, a futuristic **Android Developer** passionate about craf
 
 ---
 
-### 🌐 Connect With Me  
+ 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-kunainta-a7a238397" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -81,7 +81,7 @@ I'm **Rahul Kunainta**, a futuristic **Android Developer** passionate about craf
 
 ---
 
-### 🕶️ Developer Mode  
+ 🕶️ Developer Mode  
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600" alt="matrix code animation"/>
 </p>
