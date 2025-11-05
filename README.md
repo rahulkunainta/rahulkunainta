@@ -6,7 +6,7 @@
 
 ---
 
-### 🌌 About Me  
+  🌌 About Me  
 I'm **Rahul Kunainta**, a futuristic **Android Developer** passionate about crafting powerful, elegant mobile apps with **Java**, **Firebase**, and sleek UI/UX design.  
 💡 My mission: build experiences that look magical and feel effortless.  
 ⚡ “Code, create, and keep evolving.”
@@ -19,7 +19,7 @@ I'm **Rahul Kunainta**, a futuristic **Android Developer** passionate about craf
 
 ---
 
-### ⚙️ Tech Stack  
+ ⚙️ Tech Stack  
 - **Languages:** Java, XML, Python (Basic)  
 - **Tools:** Android Studio, Firebase, Cloudinary, Git, VS Code  
 - **UI/UX:** Material Design, XML Layouts, Canva  
@@ -45,7 +45,9 @@ I'm **Rahul Kunainta**, a futuristic **Android Developer** passionate about craf
   <b>🔥 Tools that bring my code to life!</b>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkunainta&show_icons=true&locale=en&layout=compact" alt="rahulkunainta" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkunainta&show_icons=true&locale=en&layout=compact" alt="rahulkunainta" />
+</p>
 
 ---
 
@@ -56,14 +58,13 @@ I'm **Rahul Kunainta**, a futuristic **Android Developer** passionate about craf
 
 ---
 
-### 🏆 Achievements  
+ 🏆 Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rahulkunainta&theme=matrix&margin-w=10&margin-h=10&no-frame=true"/>
 </p>
 
 ---
-
-### 🧠 Contribution Graph  
+ 🧠 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkunainta&theme=matrix&hide_border=true&area=true" />
 </p>
