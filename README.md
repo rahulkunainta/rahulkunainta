@@ -45,7 +45,7 @@ I'm **Rahul Kunainta**, a futuristic **Android Developer** passionate about craf
   <b>🔥 Tools that bring my code to life!</b>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkunainta&show_icons=true&locale=en&layout=compact" alt="rahulkunainta" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkunainta&show_icons=true&locale=en&layout=compact" alt="rahulkunainta" /></p>
 
 ---
 
