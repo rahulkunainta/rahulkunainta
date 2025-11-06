@@ -1,6 +1,6 @@
 <h1 align="center">
   <span>
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=34&duration=2800&pause=700&color=00FF00,00CC66,00FFFF&center=true&vCenter=true&width=750&lines= WELCOME...; I AM RAHUL+KUNAINTA;ANDROID+DEVELOPER;" alt="Hacker Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=34&duration=2600&pause=600&color=00FF00,00CC66,00FFFF&center=true&vCenter=true&width=850&lines=RAHUL+KUNAINTA_;ANDROID+DEVELOPER_;DEPLOYING+CREATIVE+MODULES...⚡" alt="Hacker Typing Animation" />
   </span>
 </h1>     
 
