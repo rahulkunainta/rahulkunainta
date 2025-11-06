@@ -6,7 +6,7 @@
 
 ---
 
-  🌌 About Me  
+<p align="center" > About Me </p> 
 I'm **Rahul Kunainta**, a futuristic **Android Developer** passionate about crafting powerful, elegant mobile apps with **Java**, **Firebase**, and sleek UI/UX design.  
 💡 My mission: build experiences that look magical and feel effortless.  
 ⚡ “Code, create, and keep evolving.”
