@@ -6,7 +6,7 @@
 
 ---
 
-About Me 
+## About Me 
 I'm Rahul Kunainta, a futuristic Full-Stack App Developer passionate about crafting powerful, elegant mobile apps with Java, Firebase, and sleek UI/UX design.  
 💡 My mission: build experiences that look magical and feel effortless.  
 ⚡ “Code, create, and keep evolving.”
