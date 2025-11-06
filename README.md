@@ -6,8 +6,8 @@
 
 ---
 
-<p align="center" > About Me </p> 
-I'm **Rahul Kunainta**, a futuristic **Android Developer** passionate about crafting powerful, elegant mobile apps with **Java**, **Firebase**, and sleek UI/UX design.  
+About Me 
+I'm Rahul Kunainta, a futuristic Full-Stack App Developer passionate about crafting powerful, elegant mobile apps with Java, Firebase, and sleek UI/UX design.  
 💡 My mission: build experiences that look magical and feel effortless.  
 ⚡ “Code, create, and keep evolving.”
 
@@ -20,7 +20,7 @@ I'm **Rahul Kunainta**, a futuristic **Android Developer** passionate about craf
 ---
 
  ⚙️ Tech Stack  
-- **Languages:** Java, XML, Python (Basic)  
+- Languages: Java, XML, Python (Basic)  
 - **Tools:** Android Studio, Firebase, Cloudinary, Git, VS Code  
 - **UI/UX:** Material Design, XML Layouts, Canva  
 - **Backend:** Firebase Auth, Firestore, Storage, Realtime DB  
