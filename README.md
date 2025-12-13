@@ -9,9 +9,6 @@
 ## About Me 
 I'm Rahul Kunainta, a Frontend Developer with hands-on experience in HTML, CSS, and basic JavaScript.
 Currently strengthening skills in Core Java to grow into a Java Full-Stack Developer with a focus on clean code and practical problem-solving.
-💡 My mission: build experiences that look magical and feel effortless.  
-⚡ “Code, create, and keep evolving.”
-
 
 
 <p align="center">
@@ -20,11 +17,13 @@ Currently strengthening skills in Core Java to grow into a Java Full-Stack Devel
 
 ---
 
- ⚙️ Tech Stack  
-- Languages: Java, XML, Python (Basic)  
-- **Tools:** Android Studio, Firebase, Cloudinary, Git, VS Code  
-- **UI/UX:** Material Design, XML Layout  
-- **Backend:** Firebase Auth, Firestore, Storage, Realtime DB  
+Languages: Java (Core), HTML, CSS, JavaScript (Basic), Python (Basic)
+
+Frontend: HTML, CSS, Material Design, XML Layouts
+
+Tools: Android Studio, Git, VS Code
+
+Backend / Services (Basic): Firebase Authentication, Firestore, Realtime Database, Storage
 
 ---
 
