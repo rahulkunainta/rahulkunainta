@@ -57,24 +57,6 @@ Backend / Services (Basic): Firebase Authentication, Firestore, Realtime Databas
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulkunainta&show_icons=true&theme=tokyonight" height="180em" width="500em"/>
-
----
-
- 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulkunainta&theme=matrix&margin-w=10&margin-h=10&no-frame=true"/>
-</p>
-
----
- 🧠 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkunainta&theme=matrix&hide_border=true&area=true" />
-</p>
-
----
 
  🌐 Connect With Me  
 <p align="center">
