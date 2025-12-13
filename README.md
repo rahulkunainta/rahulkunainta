@@ -91,10 +91,3 @@ Backend / Services (Basic): Firebase Authentication, Firestore, Realtime Databas
 
 ---
 
- 🕶️ Developer Mode  
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600" alt="matrix code animation"/>
-</p>
-
-⭐ *“Hack the future with creativity and code.”*  
-👨‍💻 *Crafted with 💚💙💜 by Rahul Kunainta (RK Creations)*  
