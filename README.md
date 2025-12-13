@@ -18,12 +18,13 @@ I'm Rahul Kunainta, a futuristic Full-Stack App Developer passionate about craft
 </p>
 
 ---
+Languages: Java (Core), HTML, CSS, JavaScript (Basic), Python (Basic)
 
- ⚙️ Tech Stack  
-- Languages: Java, XML, Python (Basic)  
-- **Tools:** Android Studio, Firebase, Cloudinary, Git, VS Code  
-- **UI/UX:** Material Design, XML Layout  
-- **Backend:** Firebase Auth, Firestore, Storage, Realtime DB  
+Frontend: HTML, CSS, Material Design, XML Layouts
+
+Tools: Android Studio, Git, VS Code
+
+Backend / Services (Basic): Firebase Authentication, Firestore, Realtime Database, Storage
 
 ---
 
