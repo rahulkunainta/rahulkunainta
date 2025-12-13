@@ -7,7 +7,8 @@
 ---
 
 ## About Me 
-I'm Rahul Kunainta, a futuristic Full-Stack App Developer passionate about crafting powerful, elegant mobile apps with Java, Firebase, and sleek UI/UX design.  
+I'm Rahul Kunainta, a Frontend Developer with hands-on experience in HTML, CSS, and basic JavaScript.
+Currently strengthening skills in Core Java to grow into a Java Full-Stack Developer with a focus on clean code and practical problem-solving.
 💡 My mission: build experiences that look magical and feel effortless.  
 ⚡ “Code, create, and keep evolving.”
 
