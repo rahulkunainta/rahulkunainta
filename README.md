@@ -32,30 +32,34 @@ Backend / Services (Basic): Firebase Authentication, Firestore, Realtime Databas
 
   
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/android_studio.png" width="60">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java.png" width="60">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/firebase.png" width="60">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="60">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" width="60">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/visual_studio_code.png" width="60">
-</p>
-
-
-
-<p align="center">
-  <b>🔥 Tools that bring my code to life!</b>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" width="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" width="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/android_studio.png" width="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java.png" width="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/firebase.png" width="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" width="50">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/visual_studio_code.png" width="50">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkunainta&show_icons=true&locale=en&layout=compact" alt="rahulkunainta" />
+  <b>Tools & Technologies I Use</b>
+</p>
+
+<p align="center">
+  HTML • CSS • Java • Firebase • Git • Android Studio • Python (Basic) • VS Code
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkunainta&show_icons=true&locale=en&layout=compact" alt="rahulkunainta"  />
 </p>
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulkunainta&show_icons=true&theme=tokyonight" height="180em" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulkunainta&show_icons=true&theme=tokyonight" height="180em" width="500em"/>
 
 ---
 
