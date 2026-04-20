@@ -1,37 +1,32 @@
  
-
----
-
-## About Me
-
-I'm **Rahul Kunainta**, a **Software Developer** with a strong foundation in **Core Java, Object-Oriented Programming (OOPS), and Data Structures & Algorithms**. I have hands-on experience building clean and responsive user interfaces using **HTML and CSS**, along with basic knowledge of **JavaScript**.
-
-I am currently focused on strengthening my **Java-based development and problem-solving skills**, with the goal of growing into a **Java Full-Stack Developer**. I value **clean code, logical thinking, and continuous learning**, and I’m eager to apply my knowledge in real-world projects.
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="cartoon coder animation"/>
 </p>
 
 ---
 
-###  Technical Skills
+Technical Skills
 
-**Languages:**
-Java (Core), HTML, CSS, JavaScript (Basic), Python (Basic)
+Programming Languages:
+Java, Python (Basic), JavaScript (Basic), SQL
 
-**Programming Concepts:**
-Object-Oriented Programming (OOPS), Data Structures & Algorithms
+Frameworks & Technologies:
+Spring Boot, Hibernate (JPA)
 
-**Frontend:**
+Databases:
+MySQL, PostgreSQL, Firebase (Firestore, Realtime Database)
+
+Frontend Development:
 HTML, CSS, Material Design, XML Layouts
 
-**Backend / Services (Basic):**
-Firebase Authentication, Firestore, Realtime Database, Storage
+Backend & Services:
+RESTful APIs, Firebase Authentication, Cloud Storage
 
-**Tools:**
-Android Studio, Git, VS Code
+Core Concepts:
+Object-Oriented Programming (OOP), Data Structures & Algorithms
 
----
+Tools & IDEs:
+Android Studio, Visual Studio Code, Eclipse, Git, Firebase Console
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" width="50">
