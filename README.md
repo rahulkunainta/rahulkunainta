@@ -1,4 +1,6 @@
- 
+About Me
+
+Rahul Kunainta is a passionate Java developer with a strong foundation in Object-Oriented Programming and Data Structures. He has hands-on experience with Spring Boot, Hibernate, and database management using MySQL and PostgreSQL. He is also familiar with frontend technologies like HTML and CSS and has worked with Firebase services. Rahul is eager to build scalable applications and continuously improve his development skills.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="cartoon coder animation"/>
 </p>
@@ -27,31 +29,7 @@ Object-Oriented Programming (OOP), Data Structures & Algorithms
 
 Tools & IDEs:
 Android Studio, Visual Studio Code, Eclipse, Git, Firebase Console
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" width="50">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" width="50">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/android_studio.png" width="50">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java.png" width="50">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/firebase.png" width="50">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="50">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" width="50">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/visual_studio_code.png" width="50">
-</p>
-
-<p align="center">
-  <b>Tools & Technologies I Use</b>
-</p>
-
-<p align="center">
-  HTML • CSS • Java • OOPS • Data Structures & Algorithms • Firebase • Git • Android Studio • Python (Basic) • VS Code
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkunainta&show_icons=true&locale=en&layout=compact" alt="rahulkunainta" />
-</p>
-
----
+ 
 
 ### Connect With Me
 
