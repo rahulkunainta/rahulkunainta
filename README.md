@@ -1,6 +1,6 @@
 About Me
 
-Rahul Kunainta is a passionate Java developer with a strong foundation in Object-Oriented Programming and Data Structures. He has hands-on experience with Spring Boot, Hibernate, and database management using MySQL and PostgreSQL. He is also familiar with frontend technologies like HTML and CSS and has worked with Firebase services. Rahul is eager to build scalable applications and continuously improve his development skills.
+I am Rahul Kunainta  passionate Java developer with a strong foundation in Object-Oriented Programming and Data Structures. I have hands-on experience with Spring Boot, Hibernate, and database management using MySQL and PostgreSQL. I am also familiar with frontend technologies like HTML and CSS and has worked with Firebase services. I am eager to build scalable applications and continuously improve his development skills.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="cartoon coder animation"/>
 </p>
