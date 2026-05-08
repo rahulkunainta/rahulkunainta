@@ -10,7 +10,7 @@ I am Rahul Kunainta  passionate Java developer with a strong foundation in Objec
 Technical Skills
 
 Programming Languages:
-Java, Python (Basic), JavaScript (Basic), SQL
+Java, JavaScript, SQL, Kotlin(Basic), C/C++(Basic), Python (Basic)
 
 Frameworks & Technologies:
 Spring Boot, Hibernate (JPA)
@@ -19,7 +19,7 @@ Databases:
 MySQL, PostgreSQL, Firebase (Firestore, Realtime Database)
 
 Frontend Development:
-HTML, CSS, Material Design, XML Layouts
+HTML, CSS, JavaScript, Material Design, XML Layouts
 
 Backend & Services:
 RESTful APIs, Firebase Authentication, Cloud Storage
@@ -40,7 +40,7 @@ Android Studio, Visual Studio Code, Eclipse, Git, Firebase Console
   <a href="https://www.instagram.com/kunainta_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:rahulkunainta1@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
